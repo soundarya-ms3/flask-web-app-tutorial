@@ -1,6 +1,6 @@
 # flask-web-app-tutorial
 
-This is a simple web application using Python Flask and MySQL database. This is a simple notes app.
+This is a simple web application using Python Flask and MySQL database. This is a simple notes taking web application.
 
 ## What is Flask
 Flask is a lightweight web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
@@ -9,7 +9,7 @@ Flask is a lightweight web application framework. It is designed to make getting
 The easiest way to install Flask is to use PIP the official package-management tool.
 
 ``` pip install Flask ```
-## Hello world
+## Minimal Flask App
 Open a terminal and install Flask (if not already installed) using PIP:
 
 ```  pip install Flask ``` 
